@@ -186,7 +186,7 @@ function App() {
                 
                 </p>
                 <a
-                  href="https://github.com/Isahannn/todos-server-redux-.git"
+                  href="https://github.com/devve28/notion-redux"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mediaLink"
